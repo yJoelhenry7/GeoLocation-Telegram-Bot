@@ -9,7 +9,7 @@
 
 2.**/help** : This will provide the list of the commands
 
-3. **/Location** : This will take the Pincode of the City
+3.**/Location** : This will take the Pincode of the City
 
 4.**/GeoLocation** : This will take the Name of the City
 
